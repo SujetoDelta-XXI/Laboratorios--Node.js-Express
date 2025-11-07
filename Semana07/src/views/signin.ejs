@@ -1,0 +1,59 @@
+<% layout('_layout') -%>
+<section class="card">
+  <div class="card-content">
+    <span class="card-title">Iniciar sesión</span>
+    <form id="formSignIn">
+      <div class="input-field">
+        <input id="email" type="email" required>
+        <label for="email">Email</label>
+      </div>
+      <div class="input-field">
+        <input id="password" type="password" required>
+        <label for="password">Password</label>
+      </div>
+      <button class="btn blue" type="submit">Entrar</button>
+      <a class="btn-flat" href="/signUp">Crear cuenta</a>
+    </form>
+  </div>
+</section>
+
+<script type="module">
+  import { saveToken } from '/js/app.js';
+  const API_BASE = `${location.protocol}//${location.host}/api`;
+
+  document.getElementById('formSignIn').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const email = document.getElementById('email').value.trim();
+    const password = document.getElementById('password').value;
+
+    const res = await fetch(`${API_BASE}/auth/signIn`, {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ email, password })
+    });
+
+    if (!res.ok) {
+      const data = await res.json().catch(()=>({message:'Error'}));
+      M.toast({html: data.message || 'Credenciales inválidas', classes:'red'});
+      return;
+    }
+
+    const data = await res.json();
+    saveToken(data.token);
+
+    try {
+      const me = await (await fetch(`${API_BASE}/users/me`, {
+        headers: { 'Authorization': `Bearer ${data.token}` }
+      })).json();
+
+      const roles = me.roles || [];
+      if (roles.includes('admin')) {
+        location.href = '/dashboard';
+      } else {
+        location.href = '/profile';
+      }
+    } catch {
+      location.href = '/profile';
+    }
+  });
+</script>

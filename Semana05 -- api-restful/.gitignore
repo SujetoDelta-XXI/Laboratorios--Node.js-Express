@@ -1,0 +1,39 @@
+# Dependencias
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Entornos
+.env
+.env.local
+.env.*.local
+
+# Cachés
+.cache/
+.npm/
+.eslintcache
+
+# Compilados
+dist/
+build/
+tmp/
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+
+# Otros
+*.pid
+*.seed
+*.pid.lock

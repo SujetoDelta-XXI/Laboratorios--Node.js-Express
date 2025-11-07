@@ -1,0 +1,86 @@
+<% layout('_layout') -%>
+<section class="card">
+  <div class="card-content">
+    <span class="card-title">Crear cuenta</span>
+    <form id="formSignUp">
+      <div class="row">
+        <div class="input-field col s6">
+          <input id="name" required>
+          <label for="name">Nombre</label>
+        </div>
+        <div class="input-field col s6">
+          <input id="lastName" required>
+          <label for="lastName">Apellido</label>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="input-field col s6">
+          <input id="phoneNumber" required>
+          <label for="phoneNumber">Teléfono</label>
+        </div>
+        <div class="input-field col s6">
+          <input id="birthdate" type="date" required>
+          <label class="active" for="birthdate">Fecha de nacimiento</label>
+        </div>
+      </div>
+
+      <div class="input-field">
+        <input id="email" type="email" required>
+        <label for="email">Email</label>
+      </div>
+
+      <div class="input-field">
+        <input id="password" type="password" required>
+        <label for="password">Password (min 8, 1 mayús, 1 dígito, 1 especial)</label>
+      </div>
+
+      <div class="row">
+        <div class="input-field col s6">
+          <input id="url_profile">
+          <label for="url_profile">URL de perfil (opcional)</label>
+        </div>
+        <div class="input-field col s6">
+          <input id="adress">
+          <label for="adress">Dirección</label>
+        </div>
+      </div>
+
+      <button class="btn blue" type="submit">Registrarme</button>
+      <a class="btn-flat" href="/signIn">Ya tengo cuenta</a>
+    </form>
+  </div>
+</section>
+
+<script type="module">
+  const API_BASE = `${location.protocol}//${location.host}/api`;
+
+  document.getElementById('formSignUp').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const payload = {
+      name: document.getElementById('name').value.trim(),
+      lastName: document.getElementById('lastName').value.trim(),
+      phoneNumber: document.getElementById('phoneNumber').value.trim(),
+      birthdate: document.getElementById('birthdate').value,
+      email: document.getElementById('email').value.trim(),
+      password: document.getElementById('password').value,
+      url_profile: document.getElementById('url_profile').value.trim(),
+      adress: document.getElementById('adress').value.trim()
+    };
+
+    const res = await fetch(`${API_BASE}/auth/signUp`, {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify(payload)
+    });
+
+    const data = await res.json().catch(()=>({message:'Error'}));
+    if (!res.ok) {
+      M.toast({html: data.message || 'Error al registrar', classes:'red'});
+      return;
+    }
+
+    M.toast({html: 'Usuario registrado. Inicia sesión.', classes:'green'});
+    setTimeout(()=>location.href='/signIn', 800);
+  });
+</script>

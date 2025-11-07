@@ -1,0 +1,56 @@
+<% layout('_layout') -%>
+
+<section class="container">
+  <h3 id="welcome" class="center-align"></h3>
+
+  <div class="card">
+    <div class="card-content">
+      <span class="card-title">Reglas del sitio</span>
+      <ul class="collection" id="rulesList">
+        <!-- Aquí se insertarán las reglas -->
+      </ul>
+    </div>
+  </div>
+</section>
+
+<script type="module">
+  import { ensureAuthOrRedirect, getMe } from '/js/app.js';
+  ensureAuthOrRedirect();
+
+  async function load() {
+    try {
+      const me = await getMe();
+
+      const roles = Array.isArray(me.roles)
+        ? me.roles.map(r => (typeof r === 'string' ? r : r.name))
+        : [];
+
+      // Solo los usuarios con rol "user" pueden ver este dashboard
+      if (!roles.includes('user')) {
+        location.href = '/403';
+        return;
+      }
+
+      // Mensaje de bienvenida
+      document.getElementById('welcome').textContent = `¡Bienvenido, ${me.name}!`;
+
+      // Reglas del sitio
+      const rules = [
+        'Mantén tus datos personales actualizados en tu perfil.',
+        'Respeta a todos los usuarios y evita lenguaje ofensivo.',
+        'No compartas tu cuenta ni tu contraseña con terceros.',
+        'Reporta cualquier actividad sospechosa al administrador.'
+      ];
+
+      const rulesList = document.getElementById('rulesList');
+      rulesList.innerHTML = rules.map(rule =>
+        `<li class="collection-item">${rule}</li>`
+      ).join('');
+    } catch (e) {
+      console.error(e);
+      M.toast({html:'Error al cargar el dashboard', classes:'red'});
+    }
+  }
+
+  load();
+</script>

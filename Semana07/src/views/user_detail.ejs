@@ -1,0 +1,43 @@
+<% layout('_layout') -%>
+
+<section class="container">
+  <h3 class="center-align">Detalle del usuario</h3>
+  <div class="card">
+    <div class="card-content">
+      <div id="info">Cargando datos...</div>
+      <div class="section center-align">
+        <a class="btn grey" href="/dashboard">Volver</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script type="module">
+  import { ensureAuthOrRedirect, fetchWithAuth } from '/js/app.js';
+  ensureAuthOrRedirect();
+
+  async function load() {
+    try {
+      const userId = location.pathname.split('/').pop(); 
+      const res = await fetchWithAuth(`/api/users/${userId}`);
+      if (!res.ok) throw new Error('No se pudo obtener info');
+      const u = await res.json();
+
+      document.getElementById('info').innerHTML = `
+        <ul class="collection">
+          <li class="collection-item"><b>Nombre:</b> ${u.name} ${u.lastName ?? ''}</li>
+          <li class="collection-item"><b>Email:</b> ${u.email}</li>
+          <li class="collection-item"><b>Teléfono:</b> ${u.phoneNumber ?? ''}</li>
+          <li class="collection-item"><b>Dirección:</b> ${u.adress ?? ''}</li>
+          <li class="collection-item"><b>Roles:</b> ${(u.roles || []).map(r=>r.name ?? r).join(', ')}</li>
+          <li class="collection-item"><b>Fecha de registro:</b> ${new Date(u.createdAt).toLocaleDateString()}</li>
+        </ul>
+      `;
+    } catch (e) {
+      M.toast({html: 'No se pudo obtener info', classes:'red'});
+      console.error(e);
+    }
+  }
+
+  load();
+</script>

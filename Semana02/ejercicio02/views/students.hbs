@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+   <title>{{title}}</title>
+</head>
+<body>
+   <h1>{{mensaje}}</h1>
+
+   <h2>Lista de estudiantes</h2>
+   <table border="2px">
+    <thead>
+        <tr>
+            <th>Nombres</th>
+            <th>Notas</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each students}}
+        <tr>
+            <td>{{nombre}}</td>
+            <td style="color: {{#if esAlta}}blue{{else}}blank{{/if}};">{{nota}}</td>
+        </tr>
+        {{/each}}
+    </tbody>
+   </table>
+</body>
+</html>

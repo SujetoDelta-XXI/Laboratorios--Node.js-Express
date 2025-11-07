@@ -1,0 +1,78 @@
+<% layout('_layout') -%>
+<section class="container">
+  <h3 class="center-align">Dashboard de administrador</h3>
+  <table class="striped highlight centered responsive-table">
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Email</th>
+        <th>Teléfono</th>
+        <th>Rol</th>
+        <th>Fecha registro</th>
+        <th>Acciones</th>
+      </tr>
+    </thead>
+    <tbody id="rows">
+      <% users.forEach(u => { %>
+        <tr>
+          <td><%= u.name %></td>
+          <td><%= u.lastName %></td>
+          <td><%= u.email %></td>
+          <td><%= u.phoneNumber %></td>
+          <td><%= (u.roles || []).map(r => r.name).join(', ') %></td>
+          <td><%= new Date(u.createdAt).toLocaleDateString() %></td>
+          <td>
+            <a href="/users/<%= u._id %>" class="btn-small blue">Ver info</a>
+          </td>
+        </tr>
+      <% }) %>
+    </tbody>
+  </table>
+</section>
+
+<script type="module">
+  import { ensureAuthOrRedirect, getMe, fetchWithAuth } from '/js/app.js';
+  ensureAuthOrRedirect();
+
+  async function load() {
+    const me = await getMe();
+    // Validación robusta para rol admin
+    const isAdmin = Array.isArray(me.roles)
+      && (me.roles.includes('admin') || me.roles.some(r => r.name === 'admin'));
+    if (!isAdmin) {
+      location.href = '/403';
+      return;
+    }
+    try {
+      const res = await fetchWithAuth('/api/users');
+      if (!res.ok) {
+        if (res.status === 403) {
+          location.href = '/403';
+          return;
+        }
+        M.toast({ html: 'No se pudo cargar usuarios', classes: 'red' });
+        return;
+      }
+      const users = await res.json();
+      const tbody = document.getElementById('rows');
+      tbody.innerHTML = users.map(u => `
+        <tr>
+          <td>${u.name ?? ''}</td>
+          <td>${u.lastName ?? ''}</td>
+          <td>${u.email}</td>
+          <td>${u.phoneNumber ?? ''}</td>
+          <td>${(u.roles || []).map(r => r.name ?? r).join(', ')}</td>
+          <td>${new Date(u.createdAt || u.created_at).toLocaleDateString()}</td>
+          <td>
+            <a href="/users/${u._id}" class="btn-small blue">Ver info</a>
+          </td>
+        </tr>
+      `).join('');
+    } catch (e) {
+      M.toast({ html: 'Error inesperado al cargar usuarios', classes: 'red' });
+      console.error(e);
+    }
+  }
+  load();
+</script>

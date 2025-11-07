@@ -1,0 +1,3025 @@
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+Línea 1: Hola, este es un archivo de prueba.
+Línea 2: Aprendiendo sobre Streams en Node.js.
+Línea 3: Procesamiento eficiente de archivos.
+Línea 4: Finalizando el archivo de prueba.
+

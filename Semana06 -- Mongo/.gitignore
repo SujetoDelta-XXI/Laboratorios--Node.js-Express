@@ -1,0 +1,46 @@
+# Dependencias de Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Logs
+logs
+*.log
+logs/*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Cache
+.cache/
+dist/
+build/
+coverage/
+.tmp/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Archivos temporales
+*.tmp
+*.temp
+*.out
+*.zip
+*.tar.gz
+
+# Tests
+jest-html-reporters-*.html
+coverage/

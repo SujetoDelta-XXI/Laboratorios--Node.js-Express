@@ -1,0 +1,81 @@
+<% layout('_layout') -%>
+
+<section class="container">
+  <h3 class="center-align">Editar mis datos</h3>
+  <div class="card">
+    <div class="card-content">
+      <form id="editForm">
+        <div class="input-field">
+          <input id="name" required>
+          <label for="name" class="active">Nombre</label>
+        </div>
+        <div class="input-field">
+          <input id="lastName" required>
+          <label for="lastName" class="active">Apellido</label>
+        </div>
+        <div class="input-field">
+          <input id="phoneNumber">
+          <label for="phoneNumber" class="active">Teléfono</label>
+        </div>
+        <div class="input-field">
+          <input id="adress">
+          <label for="adress" class="active">Dirección</label>
+        </div>
+        <div class="input-field">
+          <input id="url_profile">
+          <label for="url_profile" class="active">URL de foto de perfil</label>
+        </div>
+        <div class="section center-align">
+          <button class="btn blue" type="submit">Guardar cambios</button>
+          <a href="/profile" class="btn grey">Cancelar</a>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
+<script type="module">
+  import { ensureAuthOrRedirect, getMe, fetchWithAuth } from '/js/app.js';
+  ensureAuthOrRedirect();
+
+  async function load() {
+    try {
+      const me = await getMe();
+      document.getElementById('name').value = me.name || '';
+      document.getElementById('lastName').value = me.lastName || '';
+      document.getElementById('phoneNumber').value = me.phoneNumber || '';
+      document.getElementById('adress').value = me.adress || '';
+      document.getElementById('url_profile').value = me.url_profile || '';
+      M.updateTextFields();
+    } catch (e) {
+      M.toast({html:'No se pudo cargar el perfil', classes:'red'});
+    }
+  }
+
+  document.getElementById('editForm').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const payload = {
+      name: document.getElementById('name').value.trim(),
+      lastName: document.getElementById('lastName').value.trim(),
+      phoneNumber: document.getElementById('phoneNumber').value.trim(),
+      adress: document.getElementById('adress').value.trim(),
+      url_profile: document.getElementById('url_profile').value.trim()
+    };
+
+    const res = await fetchWithAuth('/api/users/me', {
+      method: 'PUT',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
+    const data = await res.json().catch(() => ({}));
+
+    if (res.ok) {
+      M.toast({html:'Datos actualizados correctamente', classes:'green'});
+      setTimeout(() => (location.href = '/profile'), 800);
+    } else {
+      M.toast({html:data.message || 'Error al actualizar', classes:'red'});
+    }
+  });
+
+  load();
+</script>

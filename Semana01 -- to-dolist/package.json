@@ -1,0 +1,19 @@
+{
+  "name": "node-semana01",
+  "version": "1.0.0",
+  "description": "Aplicaciones web avanzado",
+  "main": "to-dolist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SujetoDelta-XXI/Node-Semana01.git"
+  },
+  "author": "Carlos Asparrin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SujetoDelta-XXI/Node-Semana01/issues"
+  },
+  "homepage": "https://github.com/SujetoDelta-XXI/Node-Semana01#readme"
+}

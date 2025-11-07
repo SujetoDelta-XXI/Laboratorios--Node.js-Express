@@ -1,0 +1,51 @@
+<% layout('_layout') -%>
+
+<section class="container">
+  <h3 class="center-align">Mi cuenta</h3>
+  <div class="card">
+    <div class="card-content">
+      <div id="info"></div>
+
+      <div class="section center-align">
+        <a class="btn blue" href="/profile/edit">
+          <i class="material-icons left">edit</i>Editar mis datos
+        </a>
+        <a class="btn red" id="logoutBtn">
+          <i class="material-icons left">exit_to_app</i>Cerrar sesión
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script type="module">
+  import { ensureAuthOrRedirect, getMe, calcAge, clearToken } from '/js/app.js';
+  ensureAuthOrRedirect();
+
+  async function load() {
+    try {
+      const me = await getMe();
+      const age = calcAge(me.birthdate);
+      document.getElementById('info').innerHTML = `
+        <ul class="collection">
+          <li class="collection-item"><b>Nombre:</b> ${me.name} ${me.lastName ?? ''}</li>
+          <li class="collection-item"><b>Email:</b> ${me.email}</li>
+          <li class="collection-item"><b>Teléfono:</b> ${me.phoneNumber ?? ''}</li>
+          <li class="collection-item"><b>Edad:</b> ${age} años</li>
+          <li class="collection-item"><b>Roles:</b> ${(me.roles || []).join(', ')}</li>
+          <li class="collection-item"><b>Dirección:</b> ${me.adress ?? ''}</li>
+        </ul>
+      `;
+    } catch (e) {
+      M.toast({html:'Sesión inválida', classes:'red'});
+      location.href='/';
+    }
+  }
+
+  document.getElementById('logoutBtn').addEventListener('click', () => {
+    clearToken();
+    location.href = '/';
+  });
+
+  load();
+</script>

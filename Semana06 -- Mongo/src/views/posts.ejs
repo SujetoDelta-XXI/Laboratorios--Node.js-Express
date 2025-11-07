@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Social Media - Posts</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body class="grey lighten-4">
+
+  <!-- Navbar -->
+  <nav>
+    <div class="nav-wrapper teal">
+      <a href="/" class="brand-logo center">Social Media</a>
+    </div>
+  </nav>
+
+  <div class="container" style="margin-top: 30px;">
+    <h4 class="center-align">Lista de Posts</h4>
+
+    <div class="center-align" style="margin-bottom: 20px;">
+      <a href="/posts/add" class="btn waves-effect waves-light teal">
+        <i class="material-icons left">add</i> Crear Nuevo Post
+      </a>
+    </div>
+
+    <div class="row">
+      <% if (posts.length === 0) { %>
+        <p class="center-align">No hay posts registrados aún.</p>
+      <% } %>
+
+      <% posts.forEach(post => { %>
+        <div class="col s12 m6 l4">
+          <div class="card">
+            <div class="card-image">
+              <img src="<%= post.imageUrl || 'https://via.placeholder.com/600x300' %>" alt="Imagen del post">
+            </div>
+            <div class="card-content">
+              <span class="card-title"><%= post.title %></span>
+              <p><%= post.content %></p>
+              <p>
+                <strong>Hashtags:</strong>
+                <% if(post.hashtags && post.hashtags.length){ %>
+                  <% post.hashtags.forEach(tag => { %>
+                    <span class="chip"><%= tag %></span>
+                  <% }) %>
+                <% } else { %>
+                  <span class="chip">#sinhashtag</span>
+                <% } %>
+              </p>
+            </div>
+            <div class="card-action">
+              <div class="right">
+                <a href="/posts/edit/<%= post._id %>" class="btn-flat">
+                  <i class="material-icons teal-text">edit</i>
+                </a>
+                <a href="/posts/delete/<%= post._id %>" class="btn-flat">
+                  <i class="material-icons red-text">delete</i>
+                </a>
+              </div>
+              <span><strong>Autor:</strong> <%= post.user ? post.user.name : "Desconocido" %></span>
+            </div>
+          </div>
+        </div>
+      <% }); %>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</body>
+</html>
