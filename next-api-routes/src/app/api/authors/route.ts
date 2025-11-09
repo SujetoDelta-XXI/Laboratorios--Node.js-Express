@@ -17,10 +17,13 @@ export async function GET() {
     })
 
     return NextResponse.json(authors)
-  } catch (error) {
-    console.log(error)
+  } catch (error: any) {
+    console.error('Error fetching authors:', error)
     return NextResponse.json(
-      { error: 'Error al obtener autores' },
+      { 
+        error: 'Error al obtener autores',
+        message: error.message || 'Database connection failed'
+      },
       { status: 500 }
     )
   }

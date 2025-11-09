@@ -15,9 +15,21 @@ export default function Page() {
 
   async function loadAuthors() {
     setLoading(true);
-    const res = await fetch("/api/authors");
-    const json = await res.json();
-    setAuthors(json || []);
+    try {
+      const res = await fetch("/api/authors");
+      if (res.ok) {
+        const json = await res.json();
+        setAuthors(Array.isArray(json) ? json : []);
+      } else {
+        console.error('Error loading authors:', res.status);
+        setAuthors([]);
+        showToast("Error al cargar autores", "error");
+      }
+    } catch (error) {
+      console.error('Error loading authors:', error);
+      setAuthors([]);
+      showToast("Error de conexión", "error");
+    }
     setLoading(false);
   }
 
@@ -103,11 +115,11 @@ export default function Page() {
   }
 
   // ---- Simple stats
-  const totalAuthors = authors.length;
-  const totalBooks = authors.reduce(
+  const totalAuthors = Array.isArray(authors) ? authors.length : 0;
+  const totalBooks = Array.isArray(authors) ? authors.reduce(
     (acc: number, a: any) => acc + (a._count?.books ?? a.books?.length ?? 0),
     0
-  );
+  ) : 0;
 
   return (
     <main className="p-6 space-y-6">
