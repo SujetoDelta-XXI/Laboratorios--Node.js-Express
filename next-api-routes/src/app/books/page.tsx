@@ -1,5 +1,6 @@
 // app/books/page.tsx
 import BooksClient from "./BooksClient";
+import { prisma } from "@/lib/prisma";
 
 export const revalidate = 300; // ✅ ISR cada 5 min (opcional)
 export const dynamic = 'force-dynamic'; // Forzar renderizado dinámico
@@ -9,39 +10,34 @@ async function getCatalogs(): Promise<{
     genres: string[];
 }> {
     try {
-        const base = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
-
-        const [authorsRes, booksRes] = await Promise.all([
-            fetch(`${base}/api/authors`, { 
-                next: { revalidate: 300 },
-                cache: 'no-store'
+        const [authors, books] = await Promise.all([
+            prisma.author.findMany({
+                select: {
+                    id: true,
+                    name: true,
+                },
+                orderBy: { name: 'asc' }
             }),
-            fetch(`${base}/api/books`, { 
-                next: { revalidate: 300 },
-                cache: 'no-store'
-            }),
+            prisma.book.findMany({
+                select: {
+                    genre: true,
+                },
+                where: {
+                    genre: { not: null }
+                }
+            })
         ]);
-
-        if (!authorsRes.ok || !booksRes.ok) {
-            return { authors: [], genres: [] };
-        }
-
-        const authorsData = await authorsRes.json();
-        const booksData = await booksRes.json();
 
         const genres: string[] = Array.from(
             new Set(
-                booksData
-                    .map((b: any) => b.genre as string | null)
+                books
+                    .map((b) => b.genre as string | null)
                     .filter((g: string | null): g is string => Boolean(g))
             )
-        );
+        ).sort();
 
         return {
-            authors: authorsData.map((a: any) => ({
-                id: a.id,
-                name: a.name,
-            })),
+            authors,
             genres,
         };
     } catch (error) {

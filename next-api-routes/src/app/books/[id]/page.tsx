@@ -1,20 +1,22 @@
 import Link from "next/link";
 import DeleteBookButton from "./DeleteBookButton";
+import { prisma } from "@/lib/prisma";
 
 export const revalidate = 60;
 export const dynamic = 'force-dynamic'; // Forzar renderizado dinámico
 
 async function getBook(id: string) {
   try {
-    const base = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
-    const res = await fetch(`${base}/api/books/${id}`, {
-      next: { revalidate: 60 },
-      cache: 'no-store'
+    const book = await prisma.book.findUnique({
+      where: { id },
+      include: {
+        author: true,
+      },
     });
 
-    if (!res.ok) throw new Error("Libro no encontrado");
+    if (!book) throw new Error("Libro no encontrado");
 
-    return res.json();
+    return book;
   } catch (error) {
     console.error('Error loading book:', error);
     throw error;
