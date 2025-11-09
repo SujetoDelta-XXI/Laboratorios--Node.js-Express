@@ -1,45 +1,61 @@
 // app/authors/[id]/page.tsx
-import AddBook from "./AddBook";
+import Link from "next/link";
 import EditAuthor from "./EditAuthor";
+import BooksList from "./BooksList";
 
 export const revalidate = 60; // ISR
+export const dynamic = 'force-dynamic'; // Forzar renderizado dinámico
 
 async function getAuthor(id: string) {
-  const [detailRes, statsRes] = await Promise.all([
-    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/authors/${id}`, {
-      next: { revalidate: 60 },
-    }),
-    fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/authors/${id}/stats`, {
-      next: { revalidate: 60 },
-    }),
-  ]);
+  try {
+    const base = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
+    const [detailRes, statsRes] = await Promise.all([
+      fetch(`${base}/api/authors/${id}`, {
+        next: { revalidate: 60 },
+        cache: 'no-store'
+      }),
+      fetch(`${base}/api/authors/${id}/stats`, {
+        next: { revalidate: 60 },
+        cache: 'no-store'
+      }),
+    ]);
 
-  if (!detailRes.ok) throw new Error("Autor no encontrado");
+    if (!detailRes.ok) throw new Error("Autor no encontrado");
 
-  return {
-    detail: await detailRes.json(),
-    stats: statsRes.ok ? await statsRes.json() : null,
-  };
+    return {
+      detail: await detailRes.json(),
+      stats: statsRes.ok ? await statsRes.json() : null,
+    };
+  } catch (error) {
+    console.error('Error loading author:', error);
+    throw error;
+  }
 }
 
-export default async function Page({ params }: { params: { id: string } }) {
-  const { detail, stats } = await getAuthor(params.id);
+export default async function Page({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const { detail, stats } = await getAuthor(id);
 
   return (
     <main className="p-6 space-y-6">
-      <h1 className="text-2xl font-bold">{detail.name}</h1>
+      <div className="flex items-center justify-between">
+        <h1 className="text-2xl font-bold">{detail.name}</h1>
+        <Link 
+          href="/" 
+          className="px-4 py-2 bg-gray-900 text-white rounded hover:bg-gray-800"
+        >
+          Ir a Home
+        </Link>
+      </div>
 
       <section className="space-y-4">
-        <AddBook authorId={detail.id} />
         <EditAuthor author={detail} />
       </section>
-
-      {/* Statistics Section */}
+      
       {stats ? (
         <section className="space-y-4">
           <h2 className="text-xl font-semibold">Estadísticas</h2>
           
-          {/* Main Stats Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             <div className="bg-blue-50 p-4 rounded-lg">
               <p className="text-sm text-gray-600">Total de Libros</p>
@@ -64,7 +80,6 @@ export default async function Page({ params }: { params: { id: string } }) {
             </div>
           </div>
 
-          {/* Genres */}
           {stats.genres && stats.genres.length > 0 && (
             <div className="bg-gray-50 p-4 rounded-lg">
               <p className="text-sm text-gray-600 mb-2">Géneros</p>
@@ -81,7 +96,6 @@ export default async function Page({ params }: { params: { id: string } }) {
             </div>
           )}
 
-          {/* Longest and Shortest Books */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="bg-amber-50 p-4 rounded-lg">
               <p className="text-sm text-gray-600">Libro Más Largo</p>
@@ -104,42 +118,7 @@ export default async function Page({ params }: { params: { id: string } }) {
         </section>
       )}
 
-      {/* Books List */}
-      {detail.books && detail.books.length > 0 && (
-        <section className="space-y-4">
-          <h2 className="text-xl font-semibold">Libros del Autor</h2>
-          <div className="space-y-2">
-            {detail.books.map((book: any) => (
-              <div
-                key={book.id}
-                className="bg-white border border-gray-200 p-4 rounded-lg hover:shadow-md transition-shadow"
-              >
-                <h3 className="font-semibold text-lg">{book.title}</h3>
-                <div className="flex flex-wrap gap-2 mt-2 text-sm text-gray-600">
-                  {book.publishedYear && (
-                    <span className="bg-gray-100 px-2 py-1 rounded">
-                      Año: {book.publishedYear}
-                    </span>
-                  )}
-                  {book.genre && (
-                    <span className="bg-gray-100 px-2 py-1 rounded">
-                      {book.genre}
-                    </span>
-                  )}
-                  {book.pages && (
-                    <span className="bg-gray-100 px-2 py-1 rounded">
-                      {book.pages} páginas
-                    </span>
-                  )}
-                </div>
-                {book.description && (
-                  <p className="text-sm text-gray-600 mt-2">{book.description}</p>
-                )}
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
+      <BooksList books={detail.books || []} />
     </main>
   );
 }
