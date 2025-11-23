@@ -12,12 +12,23 @@ const startServer = async () => {
     // Cargar modelos y definir asociaciones antes de sincronizar
     const Product = require('./models/Product');
     const Category = require('./models/Category');
+    const Role = require('./models/Role');
+    const User = require('./models/User');
 
     Category.hasMany(Product, { foreignKey: 'CategoryId' });
     Product.belongsTo(Category, { foreignKey: 'CategoryId' });
 
+    // User - Role
+    Role.hasMany(User, { foreignKey: 'RoleId' });
+    User.belongsTo(Role, { foreignKey: 'RoleId' });
+
     await sequelize.sync({ alter: true });
+    // Seed roles and admin AFTER syncing models/tables
+    const seed = require('./seeders/seedRolesAndAdmin');
+    await seed();
+
     console.log('Modelos sincronizados');
+    
 
     app.listen(PORT, () => {
       console.log(`Servidor corriendo en http://localhost:${PORT}`);

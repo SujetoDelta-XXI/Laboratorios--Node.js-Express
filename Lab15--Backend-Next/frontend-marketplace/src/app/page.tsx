@@ -67,11 +67,21 @@ export default function Page() {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {products.map((product) => (
           <div key={product.id} className="bg-white p-4 rounded shadow">
-            <h2 className="font-bold">{product.nombre}</h2>
-            <p>S/. {product.precio}</p>
+            {product.imageUrl ? (
+              <img
+                src={product.imageUrl}
+                alt={product.nombre}
+                className="w-full h-48 object-cover rounded mb-4"
+              />
+            ) : (
+              <div className="w-full h-48 bg-gray-100 rounded mb-4 flex items-center justify-center text-sm text-gray-400">No imagen</div>
+            )}
+
+            <h2 className="font-bold text-lg">{product.nombre}</h2>
+            <p className="mt-1 text-sm text-gray-700">S/. {product.precio}</p>
 
             {product.Category && (
-              <p className="text-sm text-gray-500">
+              <p className="mt-2 text-sm text-gray-500">
                 Categoría: {product.Category.nombre}
               </p>
             )}
