@@ -9,6 +9,10 @@ const nextConfig: NextConfig = {
       {
         protocol: 'https',
         hostname: '**.unsplash.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'lab14-express-domain.s3.us-west-1.amazonaws.com',
       }
     ]
   }
