@@ -24,3 +24,30 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* ================================
+   FORZAR TEXTO NEGRO EN INPUTS
+   ================================ */
+
+input,
+textarea,
+select {
+  color: #000 !important;
+  background-color: #fff !important;
+}
+
+/* Placeholder legible */
+input::placeholder,
+textarea::placeholder {
+  color: #777 !important;
+}
+
+/* Autofill Chrome / Edge */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill {
+  -webkit-text-fill-color: #000 !important;
+  box-shadow: 0 0 0px 1000px #fff inset !important;
+  transition: background-color 5000s ease-in-out 0s;
+}

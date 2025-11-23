@@ -61,3 +61,16 @@ textarea {
     border-color: #374151;
   }
 }
+
+/* Asegurar lectura de texto en controles de formulario */
+input, textarea, select, button {
+  color: var(--foreground) !important;
+}
+input::placeholder, textarea::placeholder {
+  color: rgba(0,0,0,0.55) !important;
+}
+@media (prefers-color-scheme: dark) {
+  input::placeholder, textarea::placeholder {
+    color: rgba(255,255,255,0.6) !important;
+  }
+}

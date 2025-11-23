@@ -15,3 +15,12 @@ a {
   color: blue;
 }
 
+/* Asegurar que el texto de los campos de formulario sea legible */
+input, textarea, select {
+  color: #000 !important;
+}
+
+input::placeholder, textarea::placeholder {
+  color: #666 !important;
+}
+

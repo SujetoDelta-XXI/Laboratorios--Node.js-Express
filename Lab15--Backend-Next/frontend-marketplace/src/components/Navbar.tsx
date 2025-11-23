@@ -10,15 +10,55 @@ export default function Navbar() {
   const router = useRouter();
 
   useEffect(() => {
-    setRole(localStorage.getItem('role'));
+    // prefer server-side cookie -> call /auth/me to refresh role, fallback to localStorage
+    const fetchMe = async () => {
+      try {
+        const res = await fetch(`${API_URL}/auth/me`, { credentials: 'include' });
+        if (res.ok) {
+          const d = await res.json();
+          if (d.user && d.user.role) {
+            setRole(d.user.role);
+            localStorage.setItem('role', d.user.role);
+            return;
+          }
+        }
+      } catch (err) {
+        // ignore
+      }
+      // fallback
+      setRole(localStorage.getItem('role'));
+    };
+    fetchMe();
+
+    // listen for auth changes from other parts of the app (login/register/logout)
+    const onAuthChanged = (e: any) => {
+      try {
+        const newRole = e && e.detail && e.detail.role ? e.detail.role : null;
+        setRole(newRole);
+        if (newRole) localStorage.setItem('role', newRole); else localStorage.removeItem('role');
+      } catch (err) {
+        setRole(localStorage.getItem('role'));
+      }
+    };
+    window.addEventListener('authChanged', onAuthChanged as EventListener);
+    return () => window.removeEventListener('authChanged', onAuthChanged as EventListener);
   }, []);
 
   const handleLogout = () => {
     // call backend to clear cookie then clear role
-    fetch(`${API_URL}/auth/logout`, { method: 'POST', credentials: 'include' }).finally(() => {
+    (async () => {
+      try {
+        await fetch(`${API_URL}/auth/logout`, { method: 'POST', credentials: 'include' });
+      } catch (err) {
+        // ignore errors
+      }
+      // clear client-side role and redirect
+      setRole(null);
       localStorage.removeItem('role');
+      try { window.dispatchEvent(new CustomEvent('authChanged', { detail: { role: null } })); } catch(e){}
+      try { router.refresh(); } catch(e) {}
       router.push('/login');
-    });
+    })();
   };
 
   return (
@@ -33,9 +73,11 @@ export default function Navbar() {
             <Link href="/" className="text-gray-600 hover:text-gray-900 transition-colors">
               Productos
             </Link>
-            <Link href="/admin" className="text-gray-600 hover:text-gray-900 transition-colors">
-              Admin
-            </Link>
+            {role === 'ADMIN' && (
+              <Link href="/admin" className="text-gray-600 hover:text-gray-900 transition-colors">
+                Admin
+              </Link>
+            )}
             {role ? (
               <button onClick={handleLogout} className="text-gray-600 hover:text-gray-900">Cerrar sesión</button>
             ) : (
