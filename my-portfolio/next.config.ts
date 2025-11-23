@@ -8,11 +8,11 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: '**.unsplash.com',
+        hostname: '**.amazonaws.com',
       },
       {
         protocol: 'https',
-        hostname: 'lab14-express-domain.s3.us-west-1.amazonaws.com',
+        hostname: '**.unsplash.com',
       }
     ]
   }
