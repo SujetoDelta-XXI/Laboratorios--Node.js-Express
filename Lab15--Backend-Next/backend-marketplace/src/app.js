@@ -10,12 +10,17 @@ const adminRouter = require('./routes/admin');
 const app = express();
 
 /* CORS SEGURO PARA PRODUCCIÓN */
+// Allowed origins can be configured via FRONTEND_ORIGINS env var (comma separated).
+const defaultOrigins = 'http://localhost:3000,http://127.0.0.1:3000,https://laboratorios-node-js-express.vercel.app';
+const allowedOrigins = (process.env.FRONTEND_ORIGINS || defaultOrigins)
+  .split(',')
+  .map(s => s.trim())
+  .filter(Boolean);
+
+console.log('CORS allowed origins:', allowedOrigins);
+
 app.use(cors({
-  origin: [
-    'http://localhost:3000',
-    'http://127.0.0.1:3000',
-    'https://laboratorios-node-js-express.vercel.app'
-  ],
+  origin: allowedOrigins,
   credentials: true
 }));
 

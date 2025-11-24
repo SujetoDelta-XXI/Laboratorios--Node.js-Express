@@ -15,7 +15,9 @@ export default function LoginPage() {
   useEffect(() => {
     (async () => {
       try {
-        const res = await fetch(`${API_URL}/auth/me`, { credentials: 'include' });
+        const token = localStorage.getItem('token');
+        if (!token) return;
+        const res = await fetch(`${API_URL}/auth/me`, { headers: { Authorization: `Bearer ${token}` } });
         if (res.ok) {
           const ct = res.headers.get('content-type') || '';
           if (ct.includes('application/json')) {
@@ -37,7 +39,6 @@ export default function LoginPage() {
       const res = await fetch(`${API_URL}/auth/login`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        credentials: 'include',
         body: JSON.stringify({ email, password })
       });
 
@@ -51,6 +52,10 @@ export default function LoginPage() {
       const data = await res.json();
 
       if (!res.ok) return setError(data.error || 'Error en login');
+
+      if (data.token) {
+        localStorage.setItem('token', data.token);
+      }
 
       if (data.user && data.user.role) {
         localStorage.setItem('role', data.user.role);

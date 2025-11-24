@@ -16,7 +16,9 @@ export default function RegisterPage() {
   useEffect(() => {
     (async () => {
       try {
-        const res = await fetch(`${API_URL}/auth/me`, { credentials: 'include' });
+        const token = localStorage.getItem('token');
+        if (!token) return;
+        const res = await fetch(`${API_URL}/auth/me`, { headers: { Authorization: `Bearer ${token}` } });
         if (res.ok) {
           const ct = res.headers.get('content-type') || '';
           if (ct.includes('application/json')) {
@@ -38,7 +40,6 @@ export default function RegisterPage() {
       const res = await fetch(`${API_URL}/auth/register`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        credentials: 'include',
         body: JSON.stringify({ nombre, email, password })
       });
 
@@ -52,6 +53,10 @@ export default function RegisterPage() {
       const data = await res.json();
 
       if (!res.ok) return setError(data.error || 'Error en registro');
+
+      if (data.token) {
+        localStorage.setItem('token', data.token);
+      }
 
       if (data.user && data.user.role) {
         localStorage.setItem('role', data.user.role);

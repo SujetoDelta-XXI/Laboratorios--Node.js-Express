@@ -29,7 +29,9 @@ export default function AdminPage() {
       if (role !== 'ADMIN') {
         // try to refresh role from server (/auth/me)
         try {
-          const res = await fetch(`${API_URL}/auth/me`, { credentials: 'include' });
+          const token = localStorage.getItem('token');
+          if (!token) { router.push('/login'); return; }
+          const res = await fetch(`${API_URL}/auth/me`, { headers: { Authorization: `Bearer ${token}` } });
           if (res.ok) {
             const d = await res.json();
             if (d.user && d.user.role) {
@@ -62,7 +64,9 @@ export default function AdminPage() {
 
   const fetchProducts = async () => {
     try {
-      const res = await fetch(`${API_URL}/products`, { credentials: 'include' });
+      const token = localStorage.getItem('token');
+      const headers: Record<string, string> | undefined = token ? { Authorization: `Bearer ${token}` } : undefined;
+      const res = await fetch(`${API_URL}/products`, headers ? { headers } : undefined);
       const data: ApiResponse<Product[]> = await res.json();
       if (data && data.success) setProducts(data.data);
     } catch (error) {
@@ -92,10 +96,12 @@ export default function AdminPage() {
     const method = editingId ? 'PUT' : 'POST';
 
     try {
+      const token = localStorage.getItem('token');
+      const headersObj: Record<string, string> = { 'Content-Type': 'application/json' };
+      if (token) headersObj['Authorization'] = `Bearer ${token}`;
       const res = await fetch(url, {
         method,
-        credentials: 'include',
-        headers: { 'Content-Type': 'application/json' },
+        headers: headersObj,
         body: JSON.stringify({
           nombre: formData.nombre,
           precio: parseFloat(formData.precio),
@@ -130,9 +136,10 @@ export default function AdminPage() {
     if (!confirm('¿Estás seguro?')) return;
 
     try {
+      const token = localStorage.getItem('token');
       const res = await fetch(`${API_URL}/products/${id}`, {
         method: 'DELETE',
-        credentials: 'include'
+        headers: token ? { Authorization: `Bearer ${token}` } : {}
       });
 
       if (res.ok) fetchProducts();
@@ -154,10 +161,12 @@ export default function AdminPage() {
       const url = categoryEditingId ? `${API_URL}/categories/${categoryEditingId}` : `${API_URL}/categories`;
       const method = categoryEditingId ? 'PUT' : 'POST';
 
+      const token = localStorage.getItem('token');
+      const headersObj: Record<string, string> = { 'Content-Type': 'application/json' };
+      if (token) headersObj['Authorization'] = `Bearer ${token}`;
       const res = await fetch(url, {
         method,
-        credentials: 'include',
-        headers: { 'Content-Type': 'application/json' },
+        headers: headersObj,
         body: JSON.stringify({ nombre: categoryForm.nombre }),
       });
 
@@ -191,7 +200,8 @@ export default function AdminPage() {
       const ok = confirm(`Se eliminarán ${count} producto(s) asociados a esta categoría. ¿Deseas continuar?`);
       if (!ok) return;
 
-      const res = await fetch(`${API_URL}/categories/${id}`, { method: 'DELETE', credentials: 'include' });
+      const token = localStorage.getItem('token');
+      const res = await fetch(`${API_URL}/categories/${id}`, { method: 'DELETE', headers: token ? { Authorization: `Bearer ${token}` } : {} });
       if (res.ok) {
         fetchCategories();
         fetchProducts();

@@ -43,16 +43,10 @@ exports.register = async (req, res) => {
 
     const token = jwt.sign(payload, JWT_SECRET, { expiresIn: '7d' });
 
-    // ✅ CONFIGURACIÓN CORRECTA PARA PRODUCCIÓN
-    res.cookie('token', token, {
-      httpOnly: true,
-      secure: true,
-      sameSite: 'none',
-      maxAge: 7 * 24 * 60 * 60 * 1000
-    });
-
+    // Return token in response body (no cookies)
     res.json({
       message: 'Registrado correctamente',
+      token,
       user: {
         id: user.id,
         nombre: user.nombre,
@@ -99,16 +93,10 @@ exports.login = async (req, res) => {
 
     const token = jwt.sign(payload, JWT_SECRET, { expiresIn: '7d' });
 
-    // ✅ FIX DEFINITIVO PARA COOKIES EN PRODUCCIÓN
-    res.cookie('token', token, {
-      httpOnly: true,
-      secure: true,
-      sameSite: 'none',
-      maxAge: 7 * 24 * 60 * 60 * 1000
-    });
-
+    // Return token in response body (no cookies)
     res.json({
       message: 'Autenticado correctamente',
+      token,
       user: {
         id: user.id,
         nombre: user.nombre,

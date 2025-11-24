@@ -13,7 +13,12 @@ export default function Navbar() {
     // prefer server-side cookie -> call /auth/me to refresh role, fallback to localStorage
     const fetchMe = async () => {
       try {
-        const res = await fetch(`${API_URL}/auth/me`, { credentials: 'include' });
+        const token = localStorage.getItem('token');
+        if (!token) {
+          setRole(localStorage.getItem('role'));
+          return;
+        }
+        const res = await fetch(`${API_URL}/auth/me`, { headers: { Authorization: `Bearer ${token}` } });
         if (res.ok) {
           const d = await res.json();
           if (d.user && d.user.role) {
@@ -47,14 +52,10 @@ export default function Navbar() {
   const handleLogout = () => {
     // call backend to clear cookie then clear role
     (async () => {
-      try {
-        await fetch(`${API_URL}/auth/logout`, { method: 'POST', credentials: 'include' });
-      } catch (err) {
-        // ignore errors
-      }
-      // clear client-side role and redirect
+      // No server-side cookie to clear: remove token locally
       setRole(null);
       localStorage.removeItem('role');
+      localStorage.removeItem('token');
       try { window.dispatchEvent(new CustomEvent('authChanged', { detail: { role: null } })); } catch(e){}
       try { router.refresh(); } catch(e) {}
       router.push('/login');
