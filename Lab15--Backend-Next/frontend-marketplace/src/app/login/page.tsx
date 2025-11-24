@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3001/api';
+console.log('API_URL', API_URL);
 
 export default function LoginPage() {
   const [email, setEmail] = useState('');
@@ -16,7 +17,13 @@ export default function LoginPage() {
       try {
         const res = await fetch(`${API_URL}/auth/me`, { credentials: 'include' });
         if (res.ok) {
-          router.push('/');
+          const ct = res.headers.get('content-type') || '';
+          if (ct.includes('application/json')) {
+            const data = await res.json();
+            if (data && data.user) router.push('/');
+          } else {
+            console.warn('/auth/me returned non-json response, skipping redirect', ct);
+          }
         }
       } catch (err) {}
     })();
@@ -33,6 +40,13 @@ export default function LoginPage() {
         credentials: 'include',
         body: JSON.stringify({ email, password })
       });
+
+      const ct = res.headers.get('content-type') || '';
+      if (!ct.includes('application/json')) {
+        const text = await res.text();
+        console.error('Login: unexpected content-type', ct, text);
+        return setError('Respuesta inesperada del servidor');
+      }
 
       const data = await res.json();
 
