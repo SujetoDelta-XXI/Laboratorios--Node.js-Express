@@ -1,0 +1,23 @@
+{
+  "name": "express-mongo-cloud",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "author": "earevalo",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "mongoose": "^8.19.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "ISC"
+}

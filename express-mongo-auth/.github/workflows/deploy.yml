@@ -1,0 +1,20 @@
+name: Deploy to Render
+
+on:
+  push:
+    branches:
+      - main   # Se ejecuta cuando haces push a la rama main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Trigger Render deploy
+        run: |
+          curl -X POST "$RENDER_DEPLOY_HOOK_URL"
+        env:
+          RENDER_DEPLOY_HOOK_URL: ${{ secrets.RENDER_DEPLOY_HOOK_URL }}
